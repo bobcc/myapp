@@ -1,19 +1,38 @@
 {
   "files": {
-    "main.js": "/myapp/static/js/main.72873104.chunk.js",
-    "main.js.map": "/myapp/static/js/main.72873104.chunk.js.map",
-    "runtime-main.js": "/myapp/static/js/runtime-main.6d446693.js",
-    "runtime-main.js.map": "/myapp/static/js/runtime-main.6d446693.js.map",
-    "static/js/2.1e7bd525.chunk.js": "/myapp/static/js/2.1e7bd525.chunk.js",
-    "static/js/2.1e7bd525.chunk.js.map": "/myapp/static/js/2.1e7bd525.chunk.js.map",
+    "main.css": "/myapp/static/css/main.7828ff43.chunk.css",
+    "main.js": "/myapp/static/js/main.6b0a3510.chunk.js",
+    "main.js.map": "/myapp/static/js/main.6b0a3510.chunk.js.map",
+    "runtime~main.js": "/myapp/static/js/runtime~main.8e589b27.js",
+    "runtime~main.js.map": "/myapp/static/js/runtime~main.8e589b27.js.map",
+    "static/js/2.3e83c6fd.chunk.js": "/myapp/static/js/2.3e83c6fd.chunk.js",
+    "static/js/2.3e83c6fd.chunk.js.map": "/myapp/static/js/2.3e83c6fd.chunk.js.map",
     "index.html": "/myapp/index.html",
-    "precache-manifest.d50a33d2ef924878e9edd8d13c441737.js": "/myapp/precache-manifest.d50a33d2ef924878e9edd8d13c441737.js",
+    "precache-manifest.ca2bed89909604a9076a4f496256cf2e.js": "/myapp/precache-manifest.ca2bed89909604a9076a4f496256cf2e.js",
     "service-worker.js": "/myapp/service-worker.js",
-    "static/js/2.1e7bd525.chunk.js.LICENSE.txt": "/myapp/static/js/2.1e7bd525.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.6d446693.js",
-    "static/js/2.1e7bd525.chunk.js",
-    "static/js/main.72873104.chunk.js"
-  ]
+    "static/css/main.7828ff43.chunk.css.map": "/myapp/static/css/main.7828ff43.chunk.css.map",
+    "static/media/avatar.jpg": "/myapp/static/media/avatar.f1d71f77.jpg",
+    "static/media/bg.jpg": "/myapp/static/media/bg.e5241971.jpg",
+    "static/media/bg2.jpg": "/myapp/static/media/bg2.84378183.jpg",
+    "static/media/bg3.jpg": "/myapp/static/media/bg3.e76de24b.jpg",
+    "static/media/bg4.jpg": "/myapp/static/media/bg4.199e9ec1.jpg",
+    "static/media/bg7.jpg": "/myapp/static/media/bg7.b08234a2.jpg",
+    "static/media/christian.jpg": "/myapp/static/media/christian.56633ed3.jpg",
+    "static/media/clem-onojegaw.jpg": "/myapp/static/media/clem-onojegaw.c058841b.jpg",
+    "static/media/clem-onojeghuo.jpg": "/myapp/static/media/clem-onojeghuo.216ef03c.jpg",
+    "static/media/cynthia-del-rio.jpg": "/myapp/static/media/cynthia-del-rio.9813593c.jpg",
+    "static/media/kendall.jpg": "/myapp/static/media/kendall.e0508cc9.jpg",
+    "static/media/landing-bg.jpg": "/myapp/static/media/landing-bg.df8fd3ef.jpg",
+    "static/media/landing.jpg": "/myapp/static/media/landing.08e18cb9.jpg",
+    "static/media/mariya-georgieva.jpg": "/myapp/static/media/mariya-georgieva.4575c40b.jpg",
+    "static/media/olu-eletu.jpg": "/myapp/static/media/olu-eletu.4112cbc1.jpg",
+    "static/media/profile-bg.jpg": "/myapp/static/media/profile-bg.baf6b40a.jpg",
+    "static/media/profile.jpg": "/myapp/static/media/profile.090a5aab.jpg",
+    "static/media/sign.jpg": "/myapp/static/media/sign.cf8b686b.jpg",
+    "static/media/studio-1.jpg": "/myapp/static/media/studio-1.ae0150c0.jpg",
+    "static/media/studio-2.jpg": "/myapp/static/media/studio-2.76e2987e.jpg",
+    "static/media/studio-3.jpg": "/myapp/static/media/studio-3.1d5451ce.jpg",
+    "static/media/studio-4.jpg": "/myapp/static/media/studio-4.e064d090.jpg",
+    "static/media/studio-5.jpg": "/myapp/static/media/studio-5.ef5c30ea.jpg"
+  }
 }
